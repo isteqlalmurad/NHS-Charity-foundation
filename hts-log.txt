@@ -1,0 +1,117 @@
+HTTrack3.49-2 launched on Sun, 20 Apr 2025 17:28:56 at https://nhstayside.foundation/
+(winhttrack https://nhstayside.foundation/ -O "'/Users/murad/Desktop/NHStyside Clone'/nhschatbot" -%v -%k )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:32:40	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=2878
+17:32:40	Warning: 	File has moved from https://nhstayside.foundation/?p=2878 to https://nhstayside.foundation/call-and-deliver/
+17:32:40	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=985
+17:32:40	Warning: 	File has moved from https://nhstayside.foundation/?p=985 to https://nhstayside.foundation/faqs/
+17:32:40	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=940
+17:32:40	Warning: 	File has moved from https://nhstayside.foundation/?p=940 to https://nhstayside.foundation/contact-us/
+17:32:40	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=830
+17:32:40	Warning: 	File has moved from https://nhstayside.foundation/?p=830 to https://nhstayside.foundation/about-us/
+17:32:40	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=1372
+17:32:40	Warning: 	File has moved from https://nhstayside.foundation/?p=1372 to https://nhstayside.foundation/gift-shop-hub/
+17:32:40	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=1167
+17:32:40	Warning: 	File has moved from https://nhstayside.foundation/?p=1167 to https://nhstayside.foundation/ways-to-support/
+17:32:40	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3499
+17:32:40	Warning: 	File has moved from https://nhstayside.foundation/?p=3499 to https://nhstayside.foundation/sponsorship-packages/
+17:32:40	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=2891
+17:32:40	Warning: 	File has moved from https://nhstayside.foundation/?p=2891 to https://nhstayside.foundation/fundraising/
+17:32:40	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=177
+17:32:40	Warning: 	File has moved from https://nhstayside.foundation/?p=177 to https://nhstayside.foundation/apply-for-funding/
+17:32:40	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=714
+17:32:40	Warning: 	File has moved from https://nhstayside.foundation/?p=714 to https://nhstayside.foundation/our-projects/
+17:33:19	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=365
+17:33:19	Warning: 	File has moved from https://nhstayside.foundation/?p=365 to https://nhstayside.foundation/projects-awarded/
+17:33:19	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=2863
+17:33:19	Warning: 	File has moved from https://nhstayside.foundation/?p=2863 to https://nhstayside.foundation/kiltwalk-dundee/
+17:33:19	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=1096
+17:33:19	Warning: 	File has moved from https://nhstayside.foundation/?p=1096 to https://nhstayside.foundation/christmas-giving-appeal/
+17:33:19	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3629
+17:33:19	Warning: 	File has moved from https://nhstayside.foundation/?p=3629 to https://nhstayside.foundation/2025/04/10/wellbeing-woods-project/
+17:33:32	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3614
+17:33:32	Warning: 	File has moved from https://nhstayside.foundation/?p=3614 to https://nhstayside.foundation/2025/03/27/the-impact-of-our-partnership-with-heart-space/
+17:33:32	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3552
+17:33:32	Warning: 	File has moved from https://nhstayside.foundation/?p=3552 to https://nhstayside.foundation/2025/03/04/covid-response-for-staff-and-patients/
+17:33:32	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3545
+17:33:32	Warning: 	File has moved from https://nhstayside.foundation/?p=3545 to https://nhstayside.foundation/2025/03/04/tayside-healthcare-arts-trust-2021-22/
+17:33:32	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3
+17:33:32	Warning: 	File has moved from https://nhstayside.foundation/?p=3 to https://nhstayside.foundation/privacy-policy/
+17:33:55	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=333
+17:33:55	Warning: 	File has moved from https://nhstayside.foundation/?p=333 to https://nhstayside.foundation/complaints-procedure/
+17:33:58	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3492
+17:33:58	Warning: 	File has moved from https://nhstayside.foundation/?p=3492 to https://nhstayside.foundation/2025/02/24/scottish-ballet-receives-funding-from-nhs-tcf/
+17:33:58	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3486
+17:33:58	Warning: 	File has moved from https://nhstayside.foundation/?p=3486 to https://nhstayside.foundation/2025/02/21/perth-concert-hall-dance-for-parkinsons/
+17:35:27	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3468
+17:35:27	Warning: 	File has moved from https://nhstayside.foundation/?p=3468 to https://nhstayside.foundation/2025/02/19/feeding-bellies-not-bins-with-signpost-international/
+17:35:31	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3343
+17:35:31	Warning: 	File has moved from https://nhstayside.foundation/?p=3343 to https://nhstayside.foundation/2025/01/28/nhs-tayside-charitable-foundation-supports-kanzen-for-life-with-25000-funding-boost/
+17:35:35	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=2762
+17:35:35	Warning: 	File has moved from https://nhstayside.foundation/?p=2762 to https://nhstayside.foundation/2025/01/20/the-impact-of-cake-or-dice-and-neon-digital/
+17:35:39	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=2725
+17:35:39	Warning: 	File has moved from https://nhstayside.foundation/?p=2725 to https://nhstayside.foundation/2024/10/07/new-therapeutic-garden-blooms-at-perth-royal-infirmary/
+17:35:43	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=2716
+17:35:43	Warning: 	File has moved from https://nhstayside.foundation/?p=2716 to https://nhstayside.foundation/2024/10/02/say-something-dundee/
+17:35:43	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=2709
+17:35:43	Warning: 	File has moved from https://nhstayside.foundation/?p=2709 to https://nhstayside.foundation/2024/10/01/supporting-playful-green-planet-a-community-driven-initiative/
+17:35:43	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=2473
+17:35:43	Warning: 	File has moved from https://nhstayside.foundation/?p=2473 to https://nhstayside.foundation/2024/07/31/improved-mobility-the-circle/
+17:35:43	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=2225
+17:35:43	Warning: 	File has moved from https://nhstayside.foundation/?p=2225 to https://nhstayside.foundation/2024/06/24/shakti-womens-aid/
+17:35:43	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=2191
+17:35:43	Warning: 	File has moved from https://nhstayside.foundation/?p=2191 to https://nhstayside.foundation/2024/06/24/art-angel-walk-talk-and-create/
+17:35:43	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=2220
+17:35:43	Warning: 	File has moved from https://nhstayside.foundation/?p=2220 to https://nhstayside.foundation/2024/06/24/dvva-lochee-and-whitfield-community-hubs/
+17:35:43	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=2208
+17:35:43	Warning: 	File has moved from https://nhstayside.foundation/?p=2208 to https://nhstayside.foundation/2024/06/24/adhd-adults-support-group/
+17:35:43	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=2142
+17:35:43	Warning: 	File has moved from https://nhstayside.foundation/?p=2142 to https://nhstayside.foundation/2024/05/28/dragons-den-event/
+17:35:43	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=2032
+17:35:43	Warning: 	File has moved from https://nhstayside.foundation/?p=2032 to https://nhstayside.foundation/2024/04/08/get-out-get-active-goga-tayside/
+17:35:43	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=764
+17:35:43	Warning: 	File has moved from https://nhstayside.foundation/?p=764 to https://nhstayside.foundation/2024/01/18/ninewells-community-garden/
+17:35:43	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=741
+17:35:43	Warning: 	File has moved from https://nhstayside.foundation/?p=741 to https://nhstayside.foundation/2024/01/18/elder-voice/
+17:35:43	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=726
+17:35:43	Warning: 	File has moved from https://nhstayside.foundation/?p=726 to https://nhstayside.foundation/2024/01/18/ward-30-information-app/
+17:35:43	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=616
+17:35:43	Warning: 	File has moved from https://nhstayside.foundation/?p=616 to https://nhstayside.foundation/2024/01/17/capability-scotland-our-inclusive-community/
+17:35:43	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=562
+17:35:43	Warning: 	File has moved from https://nhstayside.foundation/?p=562 to https://nhstayside.foundation/2024/01/17/tayside-council-on-alcohol/
+17:35:43	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3375
+17:35:43	Warning: 	File has moved from https://nhstayside.foundation/?p=3375 to https://nhstayside.foundation/2025/02/07/neutral-baby-gift-set/
+17:35:47	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3365
+17:35:47	Warning: 	File has moved from https://nhstayside.foundation/?p=3365 to https://nhstayside.foundation/2025/02/07/baby-boy-gift-set/
+17:35:51	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3030
+17:35:51	Warning: 	File has moved from https://nhstayside.foundation/?p=3030 to https://nhstayside.foundation/2024/11/26/cosy-sloth-mug-gift-set/
+17:35:55	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=2979
+17:35:55	Warning: 	File has moved from https://nhstayside.foundation/?p=2979 to https://nhstayside.foundation/2024/11/26/arran-03-discovery-box/
+17:35:59	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3372
+17:35:59	Warning: 	File has moved from https://nhstayside.foundation/?p=3372 to https://nhstayside.foundation/2025/02/07/baby-boy-octopus-set/
+17:35:59	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3368
+17:35:59	Warning: 	File has moved from https://nhstayside.foundation/?p=3368 to https://nhstayside.foundation/2025/02/07/baby-girl-gift-set/
+17:35:59	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3028
+17:35:59	Warning: 	File has moved from https://nhstayside.foundation/?p=3028 to https://nhstayside.foundation/2024/11/26/cosy-melts-socks-gift-set/
+17:36:03	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=2986
+17:36:03	Warning: 	File has moved from https://nhstayside.foundation/?p=2986 to https://nhstayside.foundation/2024/11/26/arran-after-the-rain-discovery-box/
+17:36:07	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3025
+17:36:07	Warning: 	File has moved from https://nhstayside.foundation/?p=3025 to https://nhstayside.foundation/2024/11/26/cosy-dog-mug-gift-set/
+17:36:11	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=2989
+17:36:11	Warning: 	File has moved from https://nhstayside.foundation/?p=2989 to https://nhstayside.foundation/2024/11/26/arran-glenashdale-discovery-box/
+17:36:15	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3017
+17:36:15	Warning: 	File has moved from https://nhstayside.foundation/?p=3017 to https://nhstayside.foundation/2024/11/26/cosy-bees-gift-set/
+17:36:19	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3001
+17:36:19	Warning: 	File has moved from https://nhstayside.foundation/?p=3001 to https://nhstayside.foundation/2024/11/26/arran-kildonan-discovery-box/
+17:36:23	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3009
+17:36:23	Warning: 	File has moved from https://nhstayside.foundation/?p=3009 to https://nhstayside.foundation/2024/11/26/arran-selections-discovery-box/
+17:36:23	Warning: 	Moved Permanently for https://nhstayside.foundation/?p=3004
+17:36:23	Warning: 	File has moved from https://nhstayside.foundation/?p=3004 to https://nhstayside.foundation/2024/11/26/arran-lochranza-machrie-discovery-box/
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 27 seconds : 576 links scanned, 522 files written (143978853 bytes overall) [127154608 bytes received at 284462 bytes/sec], 22057231 bytes transferred using HTTP compression in 280 files, ratio 22%, 12.2 requests per connection
+(No errors, 106 warnings, 0 messages)
